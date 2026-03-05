@@ -48,4 +48,5 @@
   <catalogs>Catalog.Сотрудники</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Склады</catalogs>
+  <dataProcessors>DataProcessor.ОткрытиеФормыСправочника</dataProcessors>
 </mdclass:Configuration>
